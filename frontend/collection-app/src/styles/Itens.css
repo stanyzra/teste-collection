@@ -1,0 +1,16 @@
+.searchBarDiv {
+  padding: 0vh 5vw;
+  margin-top: 7vh;}
+
+.bodyCards {
+  padding: 2vh 5vw;
+}
+
+.itens {
+  overflow-y: scroll;
+  max-height: 75vh; 
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
